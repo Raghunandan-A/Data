@@ -1,0 +1,10 @@
+[{ "tag": "Name", "tagVar": "nameCreate", "options": ["idt-dev-det-rds", "datahub-dev-poc", "ngwf-qa-inst","tesla-sand-office","guinness-dev-sdgmb"] },
+    { "tag": "techopsManaged", "tagVar": "techopsManagedCreate", "options": ["true", "b", "c"] },
+    { "tag": "techopsProject", "tagVar": "techopsProjectCreate", "options": ["idt", "datahub", "dms","ica","ngwf","tesla","guinness"] },
+    { "tag": "techopsService", "tagVar": "techopsServiceCreate", "options": ["det", "poc", "siris","ui","inst","office","sdgmb"] },
+    { "tag": "techopsEnvironment", "tagVar": "techopsEnvironmentCreate", "options": ["dev", "sand", "qa"] },
+    { "tag": "tr:application-asset-insight-id", "tagVar": "appAssetCreate", "options": ["200206", "204896", "204463","204548","204418"] },
+    { "tag": "tr:environment-type", "tagVar": "envTypeCreate", "options": ["DEVELOPMENT", "LAB", "QUALITY-ASSURANCE"] },
+    { "tag": "tr:financial-identifier", "tagVar": "financialIdCreate", "options": ["450200195", "450200179", "450200186","451110620","500000214","451110620"] },
+    { "tag": "tr:resource-owner", "tagVar": "resourceOwnerCreate", "options": ["techopscloud@thomsonreuters.com", "b", "c"] },
+    { "tag": "tr:service-name", "tagVar": "serviceNameCreate", "options": ["idt-det", "b", "c"] }]
